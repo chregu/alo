@@ -6,8 +6,7 @@ Very very alpha, a proper installer will follow
 
     cd /usr/local/
     git clone git://github.com/liip/alo.git
-    cd alo
-    bash bin/install.sh
+    bash /usr/local/alo/bin/install.sh
     
  
 ## Adding a new "host"
