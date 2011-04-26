@@ -13,13 +13,13 @@ Very very alpha, a proper installer will follow
 ## Adding a new "host"
 
 
-   cd ~/.alo
-   ln -s /path/to/your/site site
+    cd ~/.alo
+    ln -s /path/to/your/site site
 
 ### For projects with a web/ folder
 
-   open http://site.alo/
+    open http://site.alo/
    
 ### For projects without a web/ folder
 
-   open http://site.olo/
+    open http://site.olo/
