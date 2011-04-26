@@ -5,3 +5,4 @@ gcc  microdns-20100805.c
 mv a.out /usr/local/bin/microdns
 chmod a+x /usr/local/bin/microdns*
 chmod a+x /etc/init.d/microdns
+update-rc.d microdns defaults 99
